@@ -1,0 +1,12 @@
+*.o
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+build/
+bin/
+.vscode/
+.idea/
+cmake-build-debug/
+cmake-build-release/
